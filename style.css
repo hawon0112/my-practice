@@ -1,0 +1,28 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    border-bottom: 5px solid slateblue;
+    margin:0;
+    padding:20px;
+}
+a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+ol{
+    padding-left: 20px;
+    color:gray;
+}
+ul{
+    margin:0;
+    padding: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+    color:gray;
+}
+.saw{
+    color:gray;
+}
+#active{
+    color : slateblue;
+}
